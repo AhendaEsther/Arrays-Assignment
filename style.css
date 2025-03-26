@@ -4,9 +4,10 @@
 .Product easy{
 display: flex;
 }
-.footer words{
+.footerwords{
     display: flex;
-    gap: 50px;
+    gap: 200px;
+    border-color: darkblue;
 }
 .Dit{
     display: flex;
@@ -37,6 +38,25 @@ font-size: large;
     display: flex;
     gap: 40px;
     margin: 5%;
+}
+.Download{
+    display: flex;
+    gap: 250px;
+    justify-content: center;
+}
+.Dit{
+    width: 60%;
+    height: 50px;
+    margin: 30%;
+}
+.Clients{
+    display: flex;
+    gap: 120px;
+
+}
+.Copyright{
+    display: flex;
+
 }
 
 
