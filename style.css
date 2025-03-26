@@ -1,0 +1,42 @@
+#nav{
+    display: flex;
+}
+.Product easy{
+display: flex;
+}
+.footer words{
+    display: flex;
+    gap: 50px;
+}
+.Dit{
+    display: flex;
+    gap: 30px;
+}
+.Landing page{
+    display: flex;
+    gap: 90px;
+}
+.Right landing page{
+font-size: large;
+}
+.Left landing page{
+    font-size: large;
+}
+.Icons{
+    
+    gap: 60px;
+    margin: 50%;
+}
+.product{
+    display: flex;
+    margin: 10%;
+    gap: 50px;
+    
+}
+.footer icons{
+    display: flex;
+    gap: 40px;
+    margin: 5%;
+}
+
+
